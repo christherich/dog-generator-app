@@ -1,5 +1,6 @@
 {
   "name": "dog-app",
+  "website": "https://christherich.github.io/dog-generator-app/",
   "version": "0.1.0",
   "homepage": ".",
   "private": false,
