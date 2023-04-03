@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dog-generator-app/static/css/main.198dce73.css",
+    "main.js": "/dog-generator-app/static/js/main.35454ffc.js",
+    "index.html": "/dog-generator-app/index.html",
+    "main.198dce73.css.map": "/dog-generator-app/static/css/main.198dce73.css.map",
+    "main.35454ffc.js.map": "/dog-generator-app/static/js/main.35454ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198dce73.css",
+    "static/js/main.35454ffc.js"
+  ]
+}
