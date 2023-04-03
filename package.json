@@ -1,8 +1,7 @@
 {
   "name": "dog-app",
-  "website": "https://christherich.github.io/dog-generator-app/",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://christherich.github.io/dog-generator-app/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
